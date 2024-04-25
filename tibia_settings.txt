@@ -1,0 +1,9 @@
+Nazwa postaci: Awesome Lewyy
+Obszar tabu HP: (1869, 280, 1910, 292)
+Obszar tabu MANA: (1869, 293, 1910, 305)
+Obszar MiniMapy: (1753, 3, 1856, 114)
+Leczenie exura poni¿ej: 250
+Leczenie exura gran poni¿ej: 30
+Klawisz leczenia exura: 1
+Klawisz leczenia exura gran: 2
+Klawisz spirit potion: 4
